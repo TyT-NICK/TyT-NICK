@@ -3,11 +3,16 @@ I'm 21 and I'm a (web- and a bit more) developer :D
 
 Nowadays I'm a student of [Irkutsk National Research Technical University](http://www.istu.edu/)
 
+## Languages
+- Russian (native)
+- English
+
 ## Technologies I use
-- Pure HTML+CSS+JS
-- ReactJS
+- Pure HTML + CSS + JS
+- React + React-Router + React-Hooks
 - SCSS
-- NodeJS+Express+Socket.IO
+- ESlint
+- Node.js + Express + Socket.io
 - MongoDB
 - MySql
 
@@ -15,6 +20,10 @@ Nowadays I'm a student of [Irkutsk National Research Technical University](http:
 - Angular
 - C#
 - TypeScript
+
+## Technologies I want to learn
+- ASP.NET
+- React Native
 
 ## The list of personal softskills
 - Empathy
