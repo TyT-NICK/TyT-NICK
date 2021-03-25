@@ -14,6 +14,7 @@ Nowadays I'm a student of [Irkutsk National Research Technical University](http:
 ## Technologies I also know
 - Angular
 - C#
+- TypeScript
 
 ## The list of personal softskills
 - Empathy
