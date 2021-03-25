@@ -1,6 +1,8 @@
 ## Hello, I'm Artem!
 I'm 21 and I'm a (web- and a bit more) developer :D
 
+Nowadays I'm a student of [Irkutsk National Research Technical University](http://www.istu.edu/)
+
 ## Technologies I use
 - Pure HTML+CSS+JS
 - ReactJS
