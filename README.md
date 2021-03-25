@@ -18,8 +18,10 @@ Nowadays I'm a student of [Irkutsk National Research Technical University](http:
 
 ## Technologies I also know
 - Angular
-- C#
 - TypeScript
+- C#
+- WPF
+
 
 ## Technologies I want to learn
 - ASP.NET
