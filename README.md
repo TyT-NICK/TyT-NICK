@@ -22,7 +22,7 @@
 - ASP.NET
 - React Native
 
-## The list of personal softskills
+## Personal softskills
 - Empathy
 - Active listening
 - Teamwork
