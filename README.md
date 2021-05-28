@@ -21,6 +21,7 @@
 ## Technologies I want to learn
 - ASP.NET
 - React Native
+- GraphQL
 
 ## Personal softskills
 - Empathy
