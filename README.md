@@ -22,6 +22,7 @@
 - ASP.NET
 - React Native
 - GraphQL
+- Docker
 
 ## Personal softskills
 - Empathy
