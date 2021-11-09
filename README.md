@@ -7,16 +7,16 @@
 - React + React-Router + React-Hooks
 - SCSS
 - ESlint
-- Node.js + Express + Socket.io
-- MongoDB
-- MySql
+- TypeScript
+
 
 ## Technologies I also know
 - Angular
-- TypeScript
 - C#
 - WPF
-
+- Node.js + Express + Socket.io
+- MongoDB
+- MySql
 
 ## Technologies I want to learn
 - ASP.NET
