@@ -31,7 +31,6 @@
 - Problem solving
 
 ## Contacts
-You can contact me via followning links (my time is UTC+8):
+You can contact me via followning links:
+- **Telegram: [@TyT_NICK](https://t.me/TyT_NICK) - preffered**
 - Email: [artem99k14@gmail.com](mailto:artem99k14@gmail.com)
-- VK: [Artyom Kuroptev](https://vk.com/tytnoudeenick)
-- Telegram: [@TyT_NICK](https://t.me/TyT_NICK)
