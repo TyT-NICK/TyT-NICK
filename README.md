@@ -34,3 +34,4 @@
 You can contact me via followning links:
 - **Telegram: [@TyT_NICK](https://t.me/TyT_NICK) - preffered**
 - Email: [artem99k14@gmail.com](mailto:artem99k14@gmail.com)
+- LinkedIt: [artem-kuroptev](https://www.linkedin.com/in/artem-kuroptev/)
