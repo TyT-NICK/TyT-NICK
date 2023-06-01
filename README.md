@@ -1,3 +1,5 @@
+For more code examples, please refer to my GitHub Gist: [GitHub Gist](https://gist.github.com/TyT-NICK)
+
 ## Languages
 - Russian (native)
 - English
